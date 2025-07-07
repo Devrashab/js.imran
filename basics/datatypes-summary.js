@@ -43,6 +43,8 @@ console.log(typeof bigNumber);
   let myYoutubename = "Imrandevradocom"
 
   let anothername = myYoutubename
+  anothername= "mrimran"
 
-  console.log(anothername);
-  
+
+  console.log(myYoutubename);
+   console.log(anothername);
